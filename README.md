@@ -1,4 +1,5 @@
 # ReactJS_webapp
+Aplicação Web criada com ReactJS, exibindo informações de Cursos organizadas em Cards.
 
 # Getting Started with Create React App
 
