@@ -1,0 +1,34 @@
+header{
+    background-color: black;
+    color: #fff;
+    height: 60px;
+    display: flex;    
+}
+
+#divlogosenai{
+    display: flex;
+    float: left;
+    margin-left: 0.5%;
+}
+
+#divtituloheader {
+    width: 82%;
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+    margin-top: -10px;
+}
+
+ #logosenai {
+    width: 140px;
+    height: 50px;
+    border-radius: 15px 30px 15px 30px;
+    margin-top: 6px;
+}
+
+hr {
+    height: 10px;
+    width: 100%;
+    background-color: black;
+    color: black;
+}

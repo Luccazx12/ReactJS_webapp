@@ -1,0 +1,47 @@
+.card-container{
+    border: 3px solid black;
+    border-radius: 4px;
+    width: 440px;
+    height: 540px;
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+img {
+    margin-left: 5%;
+    width: 400px;
+    height: 200px;
+}
+
+#info {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+}
+
+.btn{
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border: 0.1rem solid #000000;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(3, 8, 10, 0.5);
+    transform: translate(-0.1rem);
+    transition: transform 150ms;
+}
+
+#hr {
+    color: red;
+    margin-top: -1px;
+}
